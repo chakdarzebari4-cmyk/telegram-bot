@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.utils import executor
 
-API_TOKEN = "PUT_YOUR_TOKEN_HERE"
+API_TOKEN = "8628506847:AAHx55gFF83Xe3yGfYtDyl-ukET2Gb6AxXI"
 ADMIN_ID = 000000000  # حط ايديك الرقمي
 CHANNEL = "@ybpi1"
 
